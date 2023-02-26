@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "OM Theme (Night Owl Italic)",
+
+    "code-runner.executorMap": {
+        "python": "clear ; python3 -u",
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python",
+
+    "[python]": {
+        "editor.formatOnType": true
+    }
+ }
+ 
